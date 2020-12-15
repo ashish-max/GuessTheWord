@@ -23,3 +23,7 @@ Getting Started
 ---------------
 
 1. Download and run the app.
+
+### Developed by
+ [Ashish ku. Behera](https://github.com/ashish-max "Github Id")
+
